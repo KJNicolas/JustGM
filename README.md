@@ -3,5 +3,4 @@
  Live demo 
  https://justgm.netlify.app/
  
- 
-![JustGM](https://user-images.githubusercontent.com/100964607/186974055-965bbffe-a9ec-4146-b85a-499f824b080d.png)
+ ![JustGM 1](https://user-images.githubusercontent.com/100964607/188525577-4502f131-9312-47dd-a5b1-317740232cfa.png)
