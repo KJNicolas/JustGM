@@ -1,6 +1,5 @@
 # JustGM
- Wedding Planner website Design
- Live demo 
+ Wedding Planner website Design made using figma and html, css and javascript
  ### [Live Site](https://justgm.netlify.app/)
  
  
